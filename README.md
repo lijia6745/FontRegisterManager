@@ -1,0 +1,2 @@
+# FontRegisterManager
+iOS以及OS X中在很多情况下需要加入一些系统没有的字体，苹果有提供一套对字体注册的管理接口。
